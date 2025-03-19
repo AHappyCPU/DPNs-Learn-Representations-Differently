@@ -42,7 +42,7 @@ Given the established law of equi-separation in traditional neural networks and 
 3. How do the different feature transformation mechanisms affect representations and learning outcomes?
 4. What implications might these differences have for robustness, generalization, and applications?
 
-In this paper, we address these questions through a comprehensive analysis of separation dynamics in DPNs. We compare their behavior with the equi-separation law and identify distinct principles that characterize energy-based representation learning.
+In this project, we address these questions through a comprehensive analysis of separation dynamics in DPNs. We compare their behavior with the equi-separation law and identify distinct principles that characterize energy-based representation learning.
 
 ## 2. Methods
 
